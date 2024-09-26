@@ -6,6 +6,7 @@ import { name as CARD_NAME } from '../package.json'
 import isEqual from './isEqual'
 import styles from './styles.css'
 
+
 import formatNumber from './formatNumber'
 import fireEvent from './fireEvent'
 import renderHeader from './components/header'
